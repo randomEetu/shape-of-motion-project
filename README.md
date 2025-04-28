@@ -1,6 +1,6 @@
 # Special Assignment on Shape of Motion
 
-This is a repository that contains the source code for a [website](https://youtube.com) showcasing different visual results from my Special Assignment.
+This is a repository that contains the source code for a [website](https://randomeetu.github.io/shape-of-motion-project/) showcasing different visual results from my Special Assignment.
 
 Original authors of this website template:
 ```
